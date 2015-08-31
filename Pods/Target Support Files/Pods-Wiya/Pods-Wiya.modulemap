@@ -1,0 +1,6 @@
+framework module Pods_Wiya {
+  umbrella header "Pods-Wiya-umbrella.h"
+
+  export *
+  module * { export * }
+}

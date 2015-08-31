@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (1.3.1)
+  - Crashlytics (3.1.1)
+  - Fabric (1.4.0):
+    - Fabric/Base (= 1.4.0)
+  - Fabric/Base (1.4.0)
+  - PureLayout (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Crashlytics
+  - Fabric
+  - PureLayout
+
+SPEC CHECKSUMS:
+  Alamofire: e4ab637e3195b645c814b87a652373439e59f2a4
+  Crashlytics: 39ab395565bc03c29cdecd2b9d103ebf30930c10
+  Fabric: 6d1d1c1eaf7ebc76fc3307e2c0259456411baf26
+  PureLayout: 270dfee2236f697ab1d5e2771c2e5c248495fa0d
+
+COCOAPODS: 0.38.2
